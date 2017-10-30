@@ -1,2 +1,2 @@
-model_checkpoint_path: "trained_variables.ckpt"
-all_model_checkpoint_paths: "trained_variables.ckpt"
+model_checkpoint_path: "spikes.ckpt"
+all_model_checkpoint_paths: "spikes.ckpt"
